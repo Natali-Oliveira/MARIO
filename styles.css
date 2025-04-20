@@ -151,20 +151,22 @@ p {
     }
     .caixa-mae {
         flex-direction: column;
-        padding: 10px;
+        padding: 40px;
         justify-content: flex-start;
     }
     .caixa-principal {
         display: flex;
         align-items: center;
         flex-direction: column;
+        margin-top: 100px;
     }
     .imagem-mario-luigi {
-        width: 80vw;
+        width: 70vw;
         height: auto;
+        margin-top: 30px;
     }
     .header {
-        margin: 10px;
+        margin: 10px 10px 10px 30px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -174,5 +176,6 @@ p {
     }
     .header a {
         font-size: 20px;
+        align-items: center;
     }
 }
