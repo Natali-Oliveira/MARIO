@@ -158,12 +158,12 @@ p {
         display: flex;
         align-items: center;
         flex-direction: column;
-        margin-top: 100px;
+        margin-top: 150px;
     }
     .imagem-mario-luigi {
         width: 70vw;
         height: auto;
-        margin-top: 30px;
+        margin-top: 60px;
     }
     .header {
         margin: 10px 10px 10px 30px;
